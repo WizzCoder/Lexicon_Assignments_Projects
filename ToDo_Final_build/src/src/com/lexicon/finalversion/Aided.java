@@ -53,6 +53,8 @@ public class Aided {
 		System.out.println("\n");
 		// printToDoListAllItems();
 		System.out.println("Size pa todoList: " + todoList.size());
+		
+		System.out.println("Det ser ok ut.");
 	}	
 		
 	public static int getTodoListSize(){
