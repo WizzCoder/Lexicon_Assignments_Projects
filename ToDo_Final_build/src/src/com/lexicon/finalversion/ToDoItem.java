@@ -1,4 +1,4 @@
-package src.com.lexicon.finalversion;
+package com.lexicon.finalversion;
 
 import java.util.Date;
 

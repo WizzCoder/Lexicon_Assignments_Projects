@@ -1,4 +1,4 @@
-package src.com.lexicon.finalversion.errata;
+package com.lexicon.finalversion.errata;
 
 public class NullPointerException extends Exception {
 

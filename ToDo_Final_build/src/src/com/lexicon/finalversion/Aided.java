@@ -1,10 +1,10 @@
-package src.com.lexicon.finalversion;
+package com.lexicon.finalversion;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import src.com.lexicon.finalversion.errata.NullPointerException;
-import src.com.lexicon.finalversion.errata.ToDoException;
+import com.lexicon.finalversion.errata.NullPointerException;
+import com.lexicon.finalversion.errata.ToDoException;
 
 
 @SuppressWarnings("unused")

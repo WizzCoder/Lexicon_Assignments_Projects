@@ -1,4 +1,4 @@
-package src.com.lexicon.finalversion;
+package com.lexicon.finalversion;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -7,8 +7,8 @@ import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-import src.com.lexicon.finalversion.ToDoList;
-import src.com.lexicon.finalversion.ui.UiMenu;
+import com.lexicon.finalversion.ToDoList;
+import com.lexicon.finalversion.ui.UiMenu;
 
 public class MainMenu {
 

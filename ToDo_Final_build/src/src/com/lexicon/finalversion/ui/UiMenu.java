@@ -1,4 +1,4 @@
-package src.com.lexicon.finalversion.ui;
+package com.lexicon.finalversion.ui;
 
 public class UiMenu {
 
